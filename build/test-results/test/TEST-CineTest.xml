@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CineTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2022-10-15T18:39:15" hostname="DESKTOP-P6OHUKV" time="0.038">
+  <properties/>
+  <testcase name="findEmptyMovie()" classname="CineTest" time="0.023"/>
+  <testcase name="payTicketTest()" classname="CineTest" time="0.001"/>
+  <testcase name="buyTicketInvalidZeroIdTest()" classname="CineTest" time="0.001"/>
+  <testcase name="buyTicketInvalidZeroCantTest()" classname="CineTest" time="0.001"/>
+  <testcase name="findMovie()" classname="CineTest" time="0.001"/>
+  <testcase name="findInvalidMovie()" classname="CineTest" time="0.001"/>
+  <testcase name="buyTicketInvalidNegativeCantTest()" classname="CineTest" time="0.001"/>
+  <testcase name="buyTicketInvalidUpperLimitIdTest()" classname="CineTest" time="0.001"/>
+  <testcase name="payZeroCostTicketTest()" classname="CineTest" time="0.001"/>
+  <testcase name="buyValidTicketTest()" classname="CineTest" time="0.0"/>
+  <testcase name="payNegativeCostTicketTest()" classname="CineTest" time="0.002"/>
+  <testcase name="buyTicketInvalidNegativeIdTest()" classname="CineTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
